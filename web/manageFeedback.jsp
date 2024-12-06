@@ -71,21 +71,19 @@
                                             <th>Tên người đánh giá</th>
                                             <th>Số sao</th>
                                             <th>Nội dung đánh giá</th>
-                                            <th>Chức năng</th>
+                                            
                                         </tr>
                                     </thead>
                                     <tbody>
                                         <c:forEach var="feedback" items="${feedback}" varStatus="status">
                                             <tr>
                                                 <td>${status.index + 1}</td>
-                                                <td>FB${feedback.id}</td>
+                                                <td>${feedback.id}</td>
                                                 <td>${feedback.user.email}</td>
                                                 <td>${feedback.user.fullName}</td>
                                                 <td>${feedback.rate}</td>
                                                 <td>${feedback.comment}</td>
-                                                <td>
-                                                    <button class="btn btn-primary btn-xs" onclick="deleteFeedback('${feedback.id}')">Xóa feedback</button>
-                                                </td>
+                                                
                                             </tr>
                                         </c:forEach>
                                     </tbody>

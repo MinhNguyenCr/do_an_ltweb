@@ -1,8 +1,3 @@
-<%-- 
-    Document   : homeadmin
-    Created on : Jun 8, 2024, 4:40:46 PM
-    Author     : ADMIN
---%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
@@ -92,7 +87,6 @@
                                     <p>Chào mừng bạn đến với Trang Quản Lý của chúng tôi! Tại đây, bạn có thể quản lý tất cả các khía cạnh của hệ thống, bao gồm:</p>
                                     <ul>
                                         <li>Quản lý đơn hàng bằng COD</li>
-                                        <li>Quản lý đơn hàng bằng VNPay</li>
                                         <li>Quản lý Feedback</li>
                   
                                     </ul>

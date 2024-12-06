@@ -14,10 +14,7 @@ import java.sql.Date;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 
-/**
- *
- * @author ADMIN
- */
+
 public class AccountDao extends DBContext {
 
     public User GetAccount(String gmail, String pass) {

@@ -11,6 +11,24 @@
             <file>file:/D:/Ky5-Summer2024/SWP391/SWP_391/web/profile.jsp</file>
             <file>file:/D:/Ky5-Summer2024/SWP391/SWP_391/web/vnpay_return.jsp</file>
         </group>
-        <group/>
+        <group>
+            <file>file:/D:/dowloadD/SWP_391/SWP_391/do_an_ltweb/src/java/Model/Product.java</file>
+            <file>file:/D:/dowloadD/SWP_391/SWP_391/do_an_ltweb/web/homeStaff.jsp</file>
+            <file>file:/D:/dowloadD/SWP_391/SWP_391/do_an_ltweb/web/js/slick.min.js</file>
+            <file>file:/D:/dowloadD/SWP_391/SWP_391/do_an_ltweb/src/java/Controller/DeleteItemInCart.java</file>
+            <file>file:/D:/dowloadD/SWP_391/SWP_391/do_an_ltweb/web/checkout.jsp</file>
+            <file>file:/D:/dowloadD/SWP_391/SWP_391/do_an_ltweb/web/login.jsp</file>
+            <file>file:/D:/dowloadD/SWP_391/SWP_391/do_an_ltweb/web/forgetPassword.jsp</file>
+            <file>file:/D:/dowloadD/SWP_391/SWP_391/do_an_ltweb/web/js/nouislider.min.js</file>
+            <file>file:/D:/dowloadD/SWP_391/SWP_391/do_an_ltweb/src/java/Controller/Checkout.java</file>
+            <file>file:/D:/dowloadD/SWP_391/SWP_391/do_an_ltweb/web/addCategory.jsp</file>
+            <file>file:/D:/dowloadD/SWP_391/SWP_391/do_an_ltweb/src/java/Controller/ProductDetail.java</file>
+            <file>file:/D:/dowloadD/SWP_391/SWP_391/do_an_ltweb/web/js/jquery.zoom.min.js</file>
+            <file>file:/D:/dowloadD/SWP_391/SWP_391/do_an_ltweb/src/java/Controller/AddBrandServlet.java</file>
+            <file>file:/D:/dowloadD/SWP_391/SWP_391/do_an_ltweb/src/java/Controller/AddCategory.java</file>
+            <file>file:/D:/dowloadD/SWP_391/SWP_391/do_an_ltweb/web/roleManagerment.jsp</file>
+            <file>file:/D:/dowloadD/SWP_391/SWP_391/do_an_ltweb/web/js/bootstrap.min.js</file>
+            <file>file:/D:/dowloadD/SWP_391/SWP_391/do_an_ltweb/web/js/jquery.min.js</file>
+        </group>
     </open-files>
 </project-private>
